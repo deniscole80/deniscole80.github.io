@@ -10,4 +10,4 @@
 </p>
 
 <h2>Companies i have worked with</h2>
-<img src="https://media.licdn.com/dms/image/C4E0BAQGRumHLWHJ5lw/company-logo_200_200/0/1677485589229/classlytica_logo?e%253D1717632000%2526v%253Dbeta%2526t%253DTr-3gZnjEL985u7y4lr6NIDo25r80Prp_atIx2yfzD8"/>
+<img src="[Title](https://media.licdn.com/dms/image/C4E0BAQGRumHLWHJ5lw/company-logo_200_200/0/1677485589229/classlytica_logo?e%253D1717632000%2526v%253Dbeta%2526t%253DTr-3gZnjEL985u7y4lr6NIDo25r80Prp_atIx2yfzD8)"/>
