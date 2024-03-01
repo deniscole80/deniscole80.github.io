@@ -38,6 +38,6 @@
             The user app is used to place order, an agent is matched to fulfill the order and  pass it to th logistics department. The logistics app takes it up from there and ensure successful delivery. Users can also monitor and track their orders from the user app.   
         </p>
         <p>Technologies: <b>React Native, NodeJS, Redux, ExpressJS, Expo, PostgreSQL, Sequelize, Jest, React Debugging tools, Digital Ocean</b></p>
-        <p>Repo Link: <a href="[Wesabimarket Repository](https://github.com/deniscole80/wesabimarket_demo)">Wesabimarket Repo Link</a></p>
+        <p>Repo Link: <a href="https://github.com/deniscole80/wesabimarket_demo">Visit Repo Link</a></p>
     </li>
 </ol>
