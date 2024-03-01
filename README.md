@@ -40,7 +40,6 @@
         <p>Technologies: <b>React Native, NodeJS, Redux, ExpressJS, Expo, PostgreSQL, Sequelize, Jest, React Debugging tools, Digital Ocean(Droplets, Managed Database, Spaces, App platform, Kubernete)</b></p>
         <p>Repo Link: <a href="https://github.com/deniscole80/wesabimarket_demo">Visit Repo Link</a></p>
     </li>
-
     <li>
         <b>Classlytica</b>
         <p>
