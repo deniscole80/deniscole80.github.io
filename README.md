@@ -10,4 +10,4 @@
 </p>
 
 <h2>Companies i have worked with</h2>
-<div>Classlytica Technologies<img src="https://media.licdn.com/dms/image/C4E0BAQGRumHLWHJ5lw/company-logo_200_200/0/1677485589229/classlytica_logo?e%253D2147483647%2526v%253Dbeta%2526t%253Dzy08Vw-8OlsenP9t4GGsFF9m3PFrUhv3TyBvs0ey5l8"/></div>
+<div>Classlytica Technologies<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
