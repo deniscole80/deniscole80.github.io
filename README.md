@@ -14,3 +14,8 @@
 <div>Protoves LTD<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
 <div>wiCare INC<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
 <div>Pro college<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
+
+<h2>Programming Languages, Frameworks, and Technologies</h2>
+<ul>
+    <li>Frontend: <span color="#0dcaf0"><b>React, NextJS, React Native, Angular, MaterialUI, Bootstrap, TailwindCSS, Ant Design, Redux, Expo, JQuery, Native Android(Java, Kotlin, XML)</b></span></li>
+</ul>
