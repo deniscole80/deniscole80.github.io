@@ -39,7 +39,7 @@
         <p>Key Features: <b>Transaction tracking, Secure payment handling, Document management, Communication tools, Compliance & Reporting</b></p>
         <p>Thirdparty Integrations: <b>Stripe, MailChimp, Paypal, Venmo</b>
         <p>Technologies: <b>Angular, MaterialUI, NodeJS, ExpressJS, PostgreSQL, MongoDB, Sequelize, AWS cloud services(EC2, RDS, Linux, Lambda, S3, Cloud9, SES, SNS)</b></p>
-        <p>Repo Link: <a href="https://github.com/deniscole80/classlytica_demo">Visit Repo Link</a></p>
+        <p>Repo Link: <a href="https://github.com/Afrique-Pay/EskroBytes">This repo is a private repository</a></p>
     </li>
     <li>
         <b>WeSabiMarket</b>
