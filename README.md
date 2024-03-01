@@ -37,7 +37,17 @@
             This is a solution that gives users the opportunity to purchase items from the market without leaving the comfort of their home.<br/> The system has 4 main Apps: Admin App, User App, Agent App, Logistics App. <br/>
             The user app is used to place order, an agent is matched to fulfill the order and  pass it to th logistics department. The logistics app takes it up from there and ensure successful delivery. Users can also monitor and track their orders from the user app.   
         </p>
-        <p>Technologies: <b>React Native, NodeJS, Redux, ExpressJS, Expo, PostgreSQL, Sequelize, Jest, React Debugging tools, Digital Ocean</b></p>
+        <p>Technologies: <b>React Native, NodeJS, Redux, ExpressJS, Expo, PostgreSQL, Sequelize, Jest, React Debugging tools, Digital Ocean(Droplets, Managed Database, Spaces, App platform, Kubernete)</b></p>
         <p>Repo Link: <a href="https://github.com/deniscole80/wesabimarket_demo">Visit Repo Link</a></p>
+    </li>
+
+    <li>
+        <b>Classlytica</b>
+        <p>
+            <b>Brief</b><br/>
+            This is an innovative School Management Application designed to streamline administrative tasks and enhance communication within educational institutions. This platform combines the functionality of a traditional school management system with the engaging features of social media, creating a comprehensive solution for schools, teachers, students, and parents.   
+        </p>
+        <p>Technologies: <b>Angular, MaterialUI, NodeJS, ExpressJS, PostgreSQL, MongoDB, Sequelize, AWS cloud services(EC2, RDS, Linux, Lambda, S3, Cloud9, SES, SNS)</b></p>
+        <p>Repo Link: <a href="https://github.com/deniscole80/classlytica_demo">Visit Repo Link</a></p>
     </li>
 </ol>
