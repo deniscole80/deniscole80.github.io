@@ -15,7 +15,15 @@
 <div>wiCare INC<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
 <div>Pro college<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
 
+<p></p>
+
 <h2>Programming Languages, Frameworks, and Technologies</h2>
 <ul>
     <li>Frontend: <span color="#0dcaf0"><b>React, NextJS, React Native, Angular, MaterialUI, Bootstrap, TailwindCSS, Ant Design, Redux, Expo, JQuery, Native Android(Java, Kotlin, XML)</b></span></li>
+    <li>Backend: <span color="#0dcaf0"><b>NodeJS, PHP, SpringBoot, AdonisJS, ExpressJS, GraphQL</b></span></li>
+    <li>Databases: <span color="#0dcaf0"><b>PostgreSQL, MySQL, MongoDB, Sequelize, Bookshelf, Hibernate</b></span></li>
+    <li>Testing and Debugging: <span color="#0dcaf0"><b>Jest, Chrome Debugging Tool, React Debugging tool, JUnit4&5</b></span></li>
+    <li>Version Control: <span color="#0dcaf0"><b>Git, Github, Bitbucket</b></span></li>
+    <li>Devop: <span color="#0dcaf0"><b>AWS(EC2, RDS, Linux, Lambda, S3, Cloud9, SES, SNS), Digital Ocean(Droplets, Managed Database, Spaces, App platform, Kubernete), Docker, CPanel, Grafana</b></span></li>
+    <li>Other Technologies: <span color="#0dcaf0"><b>Maven, Slack, Trello, SignalFx, Gitlab CI/CD, Gradle, Sentry, Jira</b></span></li>
 </ul>
