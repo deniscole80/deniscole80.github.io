@@ -37,5 +37,7 @@
             This is a solution that gives users the opportunity to purchase items from the market without leaving the comfort of their home.<br/> The system has 4 main Apps: Admin App, User App, Agent App, Logistics App. <br/>
             The user app is used to place order, an agent is matched to fulfill the order and  pass it to th logistics department. The logistics app takes it up from there and ensure successful delivery. Users can also monitor and track their orders from the user app.   
         </p>
+        <p>Technologies: <b>React Native, NodeJS, Redux, ExpressJS, Expo, PostgreSQL, Sequelize, Jest, React Debugging tools, Digital Ocean</b></p>
+        <p>Repo Link: <a href="[Wesabimarket Repository](https://github.com/deniscole80/wesabimarket_demo)"></a></p>
     </li>
 </ol>
