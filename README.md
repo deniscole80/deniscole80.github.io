@@ -10,8 +10,7 @@
 </p>
 
 <h2>Companies i have worked with</h2>
-<div>Classlytica Technologies
--[Classlytica logo](https://www.linkedin.com/company/classlytica/?lipi%253Durn%253Ali%253Apage%253Ad_flagship3_search_srp_all%253B6WxXVRdcSmKXQADVSziwLg%253D%253D)</div>
+<div>Classlytica Technologies<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
 <div>Protoves LTD<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
 <div>wiCare INC<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
 <div>Pro college<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
@@ -28,3 +27,15 @@
     <li>Devop: <span color="#0dcaf0"><b>AWS(EC2, RDS, Linux, Lambda, S3, Cloud9, SES, SNS), Digital Ocean(Droplets, Managed Database, Spaces, App platform, Kubernete), Docker, CPanel, Grafana</b></span></li>
     <li>Other Technologies: <span color="#0dcaf0"><b>Maven, Slack, Trello, SignalFx, Gitlab CI/CD, Gradle, Sentry, Jira</b></span></li>
 </ul>
+
+<h2>My Projects</h2>
+<ol>
+    <li>
+        <b>WeSabiMarket</b>
+        <p>
+            <b>Brief</b><br/>
+            This is a solution that gives users the opportunity to purchase items from the market without leaving the comfort of their home.<br/> The system has 4 main Apps: Admin App, User App, Agent App, Logistics App. <br/>
+            The user app is used to place order, an agent is matched to fulfill the order and  pass it to th logistics department. The logistics app takes it up from there and ensure successful delivery. Users can also monitor and track their orders from the user app.   
+        </p>
+    </li>
+</ol>
