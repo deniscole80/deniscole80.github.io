@@ -11,3 +11,6 @@
 
 <h2>Companies i have worked with</h2>
 <div>Classlytica Technologies<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
+<div>Protoves LTD<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
+<div>wiCare INC<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
+<div>Pro college<img src="https://drive.google.com/file/d/1iF8jwQ-C1ti9Pe-81B4QDFB7LeoRMina/view?usp=sharing"/></div>
